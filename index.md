@@ -10,9 +10,11 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Header 1
+# Graph Representation Learning
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+* Q1: What is **Graph Embedding**?
+* Q2: How to get feature matrix and input to NN?
+* Q3: Can we predict the attributes/features of nodes instead of the node label?
 
 ## Header 2
 
