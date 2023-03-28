@@ -15,7 +15,8 @@ There should be whitespace between paragraphs. We recommend including a README, 
 * Q1: What is **Graph Embedding**?
 Knowledge Graph (KG) [24] is defined as a directed graph G = (V, E), where
 V is the set of nodes and E ⊆ V × V is the set of edges between nodes in V. G is associated with a node type mapping function ϕ: V → A and an edge type mapping function ψ: E → R, where |A| > 1 and/or |R| > 1. Each node v ∈ V belongs to one particular node type in the node type set A: ϕ(v) ∈ A, and each edge e ∈ E belongs to a particular relation type in relation type set R: ψ(e) ∈ R. Mining knowledge graphs is usually based on a basic entity-relation-entity triplet (u,e,v), where u ∈ V, e ∈ E, v ∈ V denote the head, relation and tail of this triplet. In this paper, we refer these entity-relation-entity triplets as knowledge triplets for simplicity. Here the types of nodes u and v could be either same or different depending on the context.
-From: Deep Learning on Knowledge Graph for Recommender System: A Survey
+
+From: **Deep Learning on Knowledge Graph for Recommender System: A Survey**
 
 * Q2: How to get feature matrix and input to NN?
 * Q3: Can we predict the attributes/features of nodes instead of the node label?
